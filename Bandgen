@@ -1,0 +1,10 @@
+#greeting for my program
+print("Hello band lovers!")
+#city of the user
+City = input("Which city did you grow up in?")
+print(City)
+#pet of the user
+Pet = input("What is the name of your pet?")
+print(Pet)
+#New band name
+print("Your new band name is:" +City+ "" +Pet)
